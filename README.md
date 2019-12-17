@@ -11,4 +11,4 @@ The test file takes the saved model (not able to upload it for size limitations)
 
 The image is a test (not calibrated and the angle of axis not translated correcty yet) and the tilt and pan values seem to work very fine (despite of the lines...)
 
-[!Test Image](test_webcam.png)
+![Test Image](test_webcam.png)
